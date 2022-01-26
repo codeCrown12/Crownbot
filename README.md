@@ -1,5 +1,5 @@
 # jetbot
-A bot for interfacing and interacting with web components.
+A bot for automated testing of web app components
 # Usage
 * Clone this repository
 * Open the dist folder in the cloned project on your PC.
