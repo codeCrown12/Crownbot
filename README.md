@@ -1,4 +1,4 @@
-# jetbot
+# Crownbot
 A bot for automated testing of web app components
 # Usage
 * Clone this repository
