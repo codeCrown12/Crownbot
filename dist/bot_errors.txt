@@ -1,0 +1,26 @@
+Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=97.0.4692.99)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00A6FDC3+2555331]
+	Ordinal0 [0x00A077F1+2127857]
+	Ordinal0 [0x00902E08+1060360]
+	Ordinal0 [0x008EC270+967280]
+	Ordinal0 [0x0094A119+1351961]
+	Ordinal0 [0x00956D82+1404290]
+	Ordinal0 [0x00947976+1341814]
+	Ordinal0 [0x009236B6+1193654]
+	Ordinal0 [0x00924546+1197382]
+	GetHandleVerifier [0x00C09622+1619522]
+	GetHandleVerifier [0x00CB882C+2336844]
+	GetHandleVerifier [0x00B023E1+541697]
+	GetHandleVerifier [0x00B01443+537699]
+	Ordinal0 [0x00A0D18E+2150798]
+	Ordinal0 [0x00A11518+2168088]
+	Ordinal0 [0x00A11660+2168416]
+	Ordinal0 [0x00A1B330+2208560]
+	BaseThreadInitThunk [0x7765FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77897A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77897A6E+238]
+
